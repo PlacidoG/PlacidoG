@@ -1,24 +1,57 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![GitHub followers](https://img.shields.io/github/followers/PlacidoG?label=Followers&style=flat-square)](https://github.com/PlacidoG)
 
-## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+# Placido Garay
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+Innovative CS student focused on building practical, user-centered software. Comfortable across Python, Java, SQL, and cloud tooling. Based in Houston, TX. Currently seeking opportunities in Production Engineering or Software Development.
 
-## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+## What I’m about
+- 🎓 University of Houston–Downtown — BS CS, Minor in Data Science (’25)
+- 🛠️ Interests: Production Engineering, Android, Cloud & APIs, System Design
+- 💡 Hacking since 2023
+- 🧠 Tech: Python, Java, JavaScript, SQL, Android, Django, Firebase
 
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+## Tech stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+
+## Featured projects
+- 🥫 Pantry Friend Android App — Android app to reduce food waste with a clean HCI-driven UX. Tech: Java, Android SDK (Activities, Intents, RecyclerViews), XML, Firebase Firestore.  
+	Repo: https://github.com/PlacidoG/pantry-friend-android-app
+- ⚡ PowerOutagePortal — Users report outages and get real-time email/SMS updates. Tech: Python, Django REST Framework, SendGrid, Vonage, HTML.  
+	Repo: https://github.com/PlacidoG/PowerOutagePortal
+- 🌐 My-Portfolio — Personal website showcasing projects and skills. Tech: HTML/CSS, JavaScript.  
+	Repo: https://github.com/PlacidoG/My-Portfolio  
+	Live: https://placidog.github.io/My-Portfolio/
+
+## Currently
+- Looking for roles where I can ship reliable systems, improve developer experience, and build useful features end-to-end.
+
+## Connect
+- Portfolio: https://github.com/PlacidoG/My-Portfolio
+- Live: https://placidog.github.io/My-Portfolio/
+- GitHub: https://github.com/PlacidoG
+- LinkedIn: https://linkedin.com/in/p-g-118569273
+- Email: [garayp2@gator.uhd.edu](mailto:garayp2@gator.uhd.edu)
+- Location: Houston, TX
+
+<details>
+	<summary>GitHub stats</summary>
+
+	<p>
+		<img src="https://github-readme-stats.vercel.app/api?username=PlacidoG&show_icons=true&hide_title=true" alt="PlacidoG GitHub stats" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlacidoG&layout=compact&langs_count=6&hide_title=true" alt="Top languages" />
+	</p>
+</details>
+
+## Beyond code
+- 🏋️ Training • 💻 Tech Enthusiast • 🎶 Ethnomusicology
+
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
