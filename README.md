@@ -26,8 +26,10 @@ Innovative CS student focused on building practical, user-centered software. Com
 - ⚡ PowerOutagePortal — Users report outages and get real-time email/SMS updates. Tech: Python, Django REST Framework, SendGrid, Vonage, HTML.  
 	Repo: https://github.com/PlacidoG/PowerOutagePortal
 - 💰 Smart Price Finder — A web application for comparing groceries and merchandise prices locally and online. Tech: Python, React, TypeScript, PostgreSQL, Node.js, Django-Ninja, Rest APIs
+  
 	Repo: https://github.com/PlacidoG/Smart-Price-Finder#
 - 🌐 My-Portfolio — Personal website showcasing projects and skills. Tech: HTML/CSS, JavaScript.
+  
 	Repo: https://github.com/PlacidoG/My-Portfolio
 	Live: https://placidog.github.io/My-Portfolio/
 
