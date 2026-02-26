@@ -50,7 +50,7 @@ Innovative CS student focused on building practical, user-centered software. Com
 </details>
 
 ## Beyond code
-- 🏋️ Training • 💻 Tech Enthusiast • 🎶 Ethnomusicology
+- 🏋️ Training • 🎹 Musician  • 📸 Photographer • 🎶 Ethnomusicology • 🎬 Cinephile • 🎧 Producer • 📚 Motivational Reader
 
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
