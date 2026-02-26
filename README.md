@@ -6,9 +6,9 @@ Innovative CS student focused on building practical, user-centered software. Com
 
 ## What I’m about
 - 🎓 University of Houston–Downtown — BS CS, Minor in Data Science (’25)
-- 🛠️ Interests: Production Engineering, Android, Cloud & APIs, System Design
+- 🛠️ Interests: AI Engineering, Cloud & API Developer, Software Testing
 - 💡 Hacking since 2023
-- 🧠 Tech: Python, Java, JavaScript, SQL, Android, Django, Firebase
+- 🧠 Tech: Python, Java, JavaScript, SQL, TypeScript, Django, Firebase
 
 ## Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
