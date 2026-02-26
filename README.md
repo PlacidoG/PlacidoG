@@ -2,7 +2,7 @@
 
 # Placido Garay
 
-Innovative CS student focused on building practical, user-centered software. Comfortable across Python, Java, SQL, and cloud tooling. Based in Houston, TX. Currently seeking opportunities in Production Engineering or Software Development.
+Innovative CS student focused on building practical, user-centered software. Comfortable across Python, Java, SQL, and cloud tooling. Based in Houston, TX. Currently seeking opportunities in Cloud, API-Testing, and Gen AI engineering roles.
 
 ## What I’m about
 - 🎓 University of Houston–Downtown — BS CS, Minor in Data Science (’25)
@@ -25,8 +25,10 @@ Innovative CS student focused on building practical, user-centered software. Com
 	Repo: https://github.com/PlacidoG/pantry-friend-android-app
 - ⚡ PowerOutagePortal — Users report outages and get real-time email/SMS updates. Tech: Python, Django REST Framework, SendGrid, Vonage, HTML.  
 	Repo: https://github.com/PlacidoG/PowerOutagePortal
-- 🌐 My-Portfolio — Personal website showcasing projects and skills. Tech: HTML/CSS, JavaScript.  
-	Repo: https://github.com/PlacidoG/My-Portfolio  
+- 💰 Smart Price Finder — A web application for comparing groceries and merchandise prices locally and online. Tech: Python, React, TypeScript, PostgreSQL, Node.js, Django-Ninja, Rest APIs
+	Repo: https://github.com/PlacidoG/Smart-Price-Finder#
+- 🌐 My-Portfolio — Personal website showcasing projects and skills. Tech: HTML/CSS, JavaScript.
+	Repo: https://github.com/PlacidoG/My-Portfolio
 	Live: https://placidog.github.io/My-Portfolio/
 
 ## Currently
