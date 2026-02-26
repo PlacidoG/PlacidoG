@@ -29,8 +29,9 @@ Innovative CS student focused on building practical, user-centered software. Com
   
 	Repo: https://github.com/PlacidoG/Smart-Price-Finder#
 - 🌐 My-Portfolio — Personal website showcasing projects and skills. Tech: HTML/CSS, JavaScript.
-  
+
 	Repo: https://github.com/PlacidoG/My-Portfolio
+
 	Live: https://placidog.github.io/My-Portfolio/
 
 ## Currently
