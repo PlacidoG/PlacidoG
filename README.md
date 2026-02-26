@@ -38,9 +38,7 @@ Innovative CS student focused on building practical, user-centered software. Com
 - Looking for roles where I can ship reliable systems, improve developer experience, and build useful features end-to-end.
 
 ## Connect
-- Portfolio: https://github.com/PlacidoG/My-Portfolio
-- Live: https://placidog.github.io/My-Portfolio/
-- GitHub: https://github.com/PlacidoG
+- Live Portfolio: https://placidog.github.io/My-Portfolio/
 - LinkedIn: https://linkedin.com/in/p-g-118569273
 - Email: [garayp2@gator.uhd.edu](mailto:garayp2@gator.uhd.edu)
 - Location: Houston, TX
