@@ -28,11 +28,9 @@ Innovative CS student focused on building practical, user-centered software. Com
 - 💰 Smart Price Finder — A web application for comparing groceries and merchandise prices locally and online. Tech: Python, React, TypeScript, PostgreSQL, Node.js, Django-Ninja, Rest APIs
   
 	Repo: https://github.com/PlacidoG/Smart-Price-Finder#
-- 🌐 My-Portfolio — Personal website showcasing projects and skills. Tech: HTML/CSS, JavaScript.
+- 🌐  ai-ticket-triage — AI‑powered IT helpdesk
 
-	Repo: https://github.com/PlacidoG/My-Portfolio
-
-	Live: https://placidog.github.io/My-Portfolio/
+	Repo: https://github.com/PlacidoG/ai-ticket-triage
 
 ## Currently
 - Looking for roles where I can ship reliable systems, improve developer experience, and build useful features end-to-end.
